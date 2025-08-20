@@ -1,4 +1,4 @@
-# Electrical-Parameters-Monitoring
+# Electrical-Parameters-Monitoring for Amruta Presscomps
 Developed an interactive Power BI dashboard to monitor real-time electrical parameters including voltage, current, power, and energy consumption. 
 
  Created Power BI dashboard using real-time machine-level data from *Amruta Presscomps* to monitor key electrical parameters.
